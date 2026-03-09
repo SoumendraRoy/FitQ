@@ -1,3 +1,9 @@
+# h5 files and other files
+*.h5
+*.hdf5
+*.npz
+*.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
